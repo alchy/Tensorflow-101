@@ -1,0 +1,42 @@
+[LIMITATIONS OF RECEPTRON]
+http://www.pg.gda.pl/~mkwies/dyd/bo_pdf/nn_3.pdf
+
+
+http://toritris.weebly.com/perceptron-5-xor-how--why-neurons-work-together.html
+
+[A Novel Single Neuron Perceptron with Universal Approximation and XOR Computation Properties]
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020563/
+
+[History of the Perceptron]
+http://web.csulb.edu/~cwallis/artificialn/History.htm
+
+[matplotlib galleery]
+https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_4.ipynb
+
+[historie neuronu v biologii]
+http://www.cerebromente.org.br/n17/history/neurons1_i.htm
+
+[grafika neuronu]
+https://www.neuraldesigner.com/images/blog/neuron_model.png
+
+[matplotlib examples]
+https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_4.ipynb
+
+[softmax function]
+http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/
+
+[neural network and backprop, obrázky]
+https://jeremykun.com/2012/12/09/neural-networks-and-backpropagation/
+
+[drawing diagrams]
+https://www.draw.io/
+
+[heatmaps matplotlib]
+https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb
+
+[SVM]
+https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+
+
+
