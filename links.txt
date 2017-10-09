@@ -37,6 +37,9 @@ https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb
 [SVM]
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
 
+[difference between tensorflow tf.nn.softmax and tf.nn.softmax_cross_entropy_with_logits]
+https://stackoverflow.com/questions/34240703/difference-between-tensorflow-tf-nn-softmax-and-tf-nn-softmax-cross-entropy-with
+
 
 
 
