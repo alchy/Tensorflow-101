@@ -40,6 +40,13 @@ https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-
 [difference between tensorflow tf.nn.softmax and tf.nn.softmax_cross_entropy_with_logits]
 https://stackoverflow.com/questions/34240703/difference-between-tensorflow-tf-nn-softmax-and-tf-nn-softmax-cross-entropy-with
 
+[jak pracuji optimizery]
+https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/3-4-A-speed-up-learning/
+
+[dedinitions]
+http://randomekek.github.io/deep/deeplearning.html
+
+
 
 
 
