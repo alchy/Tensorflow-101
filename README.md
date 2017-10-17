@@ -34,4 +34,3 @@ pozn: pomuzete mi tutorial vylepsit? -> pull request
 
 diky
 @neuronky.cz
-
