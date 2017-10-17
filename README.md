@@ -13,7 +13,7 @@ Tensorflow tutorial pro PyVo a jine prilezitosti
 - Tensorboard
 
 - Stroj na predpoved (zjednoduseny priklad supervised uceni),
-  rozdeleni dat na testovaci date a data pro uceni modelu,
+  rozdeleni dat na testovaci data a data pro uceni modelu,
   chyba predpovedi a optimalizace pomoci gradient descent, 
   overeni predpovedi modelu na testovacim vzorku
 
