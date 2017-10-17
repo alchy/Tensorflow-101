@@ -26,12 +26,12 @@ Tensorflow tutorial pro PyVo a jine prilezitosti
 
 zatim rozpracovano: 
 
-- Matice a neruonka
+- Matice a neuronka
 - Proc bias?
 - GPU vs. CPU a velikost modelu
 
 pozn: pomuzete mi tutorial vylepsit? -> pull request
 
 diky
-@neruonky.cz
+@neuronky.cz
 
