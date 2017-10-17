@@ -24,6 +24,12 @@ Tensorflow tutorial pro PyVo a jine prilezitosti
 - Prvni neuronka - Neuronova sit se uci operaci XOR,
   staci ji zvetsit a uz muze rozpoznavat cislice (MNIST)
 
+zatim rozpracovano: 
+
+- Matice a neruonka
+- Proc bias?
+- GPU vs. CPU a velikost modelu
+
 pozn: pomuzete mi tutorial vylepsit? -> pull request
 
 diky
