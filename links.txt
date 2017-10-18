@@ -1,7 +1,7 @@
 [LIMITATIONS OF RECEPTRON]
 http://www.pg.gda.pl/~mkwies/dyd/bo_pdf/nn_3.pdf
 
-
+[THE XOR PROBLEM]
 http://toritris.weebly.com/perceptron-5-xor-how--why-neurons-work-together.html
 
 [A Novel Single Neuron Perceptron with Universal Approximation and XOR Computation Properties]
@@ -10,29 +10,14 @@ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4020563/
 [History of the Perceptron]
 http://web.csulb.edu/~cwallis/artificialn/History.htm
 
-[matplotlib galleery]
-https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_4.ipynb
-
-[historie neuronu v biologii]
+[BIOLOGICAL NEURON HISTORY]
 http://www.cerebromente.org.br/n17/history/neurons1_i.htm
 
-[grafika neuronu]
-https://www.neuraldesigner.com/images/blog/neuron_model.png
-
-[matplotlib examples]
-https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_4.ipynb
-
-[softmax function]
+[SOFTMAX FUNCTION]
 http://dataaspirant.com/2017/03/07/difference-between-softmax-function-and-sigmoid-function/
 
-[neural network and backprop, obrázky]
+[NN BACKPROP, obrázky]
 https://jeremykun.com/2012/12/09/neural-networks-and-backpropagation/
-
-[drawing diagrams]
-https://www.draw.io/
-
-[heatmaps matplotlib]
-https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb
 
 [SVM]
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
@@ -40,13 +25,25 @@ https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-
 [difference between tensorflow tf.nn.softmax and tf.nn.softmax_cross_entropy_with_logits]
 https://stackoverflow.com/questions/34240703/difference-between-tensorflow-tf-nn-softmax-and-tf-nn-softmax-cross-entropy-with
 
-[jak pracuji optimizery]
+[HOW OPTIMIZERS WORK]
 https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/3-4-A-speed-up-learning/
 
-[dedinitions]
+[DEFINITION OF MACHINE LEARNING]
 http://randomekek.github.io/deep/deeplearning.html
 
+[DRAWING DIAGRAMS]
+https://www.draw.io/
 
+[MATPLOTLIB: GALLERY - EXAMPLES]
+https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/formatting_4.ipynb
 
+[MATPLOTLIB: HEATMAPS]
+https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb
 
+[Python module for manipulation and statistical analysis of graphs]
+https://graph-tool.skewed.de/
 
+[WIFI - ELECTROSMOG IS UNSEEN DANGER!]
+always turn wifi router off when not using it or stop using this shit
+search for evicence yourself
+http://www.voxo.eu/elektrosmog/wi-fi
