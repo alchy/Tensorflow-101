@@ -44,6 +44,6 @@ https://github.com/rasbt/matplotlib-gallery/blob/master/ipynb/heatmaps.ipynb
 https://graph-tool.skewed.de/
 
 [WIFI - ELECTROSMOG IS UNSEEN DANGER!]
-always turn wifi router off when not using it or stop using this shit
-search for evicence yourself
-http://www.voxo.eu/elektrosmog/wi-fi
+always turn wifi router off when not using it or stop using this shit completely
+
+
